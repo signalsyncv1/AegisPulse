@@ -1,0 +1,61 @@
+report_id,text,sif_label
+R001,"During pump maintenance, electrical isolation was not completed before the technician entered the equipment area.",1
+R002,"A worker entered a confined space without confirming atmospheric testing and gas monitoring.",1
+R003,"A worker was standing below a suspended load during crane lifting operations.",1
+R004,"Hot work was started without confirming that the required permit and gas testing were completed.",1
+R005,"A worker was working at height without proper fall protection.",1
+R006,"A vehicle was reversing near workers without adequate separation or spotter control.",1
+R007,"A worker entered the maintenance area after energy isolation had not been verified.",1
+R008,"During maintenance, stored pressure was not fully released before work started.",1
+R009,"A worker crossed a line-of-fire area while heavy equipment was operating nearby.",1
+R010,"Personnel remained underneath a suspended load during a lifting operation.",1
+R011,"The work area had poor housekeeping and a small amount of packaging material was removed immediately.",0
+R012,"A warning sign was slightly damaged and was replaced during routine inspection.",0
+R013,"A worker noticed a minor spill and cleaned it immediately.",0
+R014,"Routine inspection was completed without identifying any significant safety exposure.",0
+R015,"The emergency exit sign was slightly faded and maintenance was requested.",0
+R016,"A worker reported minor housekeeping issues around the storage area.",0
+R017,"Electrical isolation was completed and verified before maintenance began.",0
+R018,"The confined space was tested and confirmed safe before authorized entry.",0
+R019,"The lifting area was barricaded and no personnel were allowed below the suspended load.",0
+R020,"Hot work was performed after the permit was approved and gas testing was completed.",0
+R021,"Fall protection was inspected and properly secured before the worker started work at height.",0
+R022,"The vehicle operator stopped and waited until the pedestrian moved to a safe area.",0
+R023,"The equipment was isolated, locked out, and verified before maintenance.",0
+R024,"A minor housekeeping observation was recorded during the daily inspection.",0
+R025,"During electrical maintenance, the equipment remained energized while the worker began opening the panel.",1
+R026,"A technician started pump maintenance before confirming that the electrical isolation point was locked and tagged.",1
+R027,"Stored hydraulic pressure was still present when maintenance work began on the equipment.",1
+R028,"A worker entered a confined space before the atmosphere was checked for oxygen deficiency and toxic gases.",1
+R029,"A worker entered a vessel without continuous gas monitoring during the confined space activity.",1
+R030,"A worker climbed onto an elevated platform without wearing the required fall arrest harness.",1
+R031,"A technician worked near an open edge without an effective guardrail or fall protection.",1
+R032,"During crane operations, a worker walked beneath a suspended pipe bundle.",1
+R033,"A suspended load moved over an area where personnel were still present.",1
+R034,"Hot work was carried out near combustible material without completing the required gas test.",1
+R035,"A welding activity started before the hot work permit was approved.",1
+R036,"A reversing vehicle moved close to pedestrians without a spotter or defined exclusion zone.",1
+R037,"A forklift travelled through a pedestrian area while workers were nearby.",1
+R038,"A worker entered the line of fire while a heavy machine was moving material.",1
+R039,"A worker stood between moving equipment and a fixed structure during vehicle movement.",1
+R040,"A contractor began work before the required work authorization had been confirmed.",1
+R041,"A maintenance task started without confirming that the permit conditions were satisfied.",1
+R042,"A crane lifting operation was started while the exclusion zone was not fully established.",1
+R043,"The pump was isolated, locked out, and the isolation was verified before maintenance started.",0
+R044,"The electrical supply was isolated and tested for zero energy before the technician began work.",0
+R045,"The confined space was inspected, atmosphere tested, and entry was authorized before the worker entered.",0
+R046,"Continuous gas monitoring was established before personnel entered the confined space.",0
+R047,"The worker used an inspected harness and secured the lifeline before starting work at height.",0
+R048,"Guardrails were installed around the elevated work area before maintenance began.",0
+R049,"The crane lifting area was barricaded and verified clear before the load was lifted.",0
+R050,"Personnel were kept outside the exclusion zone throughout the lifting operation.",0
+R051,"The hot work permit was approved and gas testing confirmed safe conditions before welding began.",0
+R052,"The vehicle operator used a trained spotter and maintained separation from pedestrians during reversing.",0
+R053,"The work authorization was approved and all permit conditions were checked before the task began.",0
+R054,"A routine inspection identified a damaged handrail and a maintenance request was raised immediately.",0
+R055,"A minor oil spill was identified and cleaned before anyone entered the affected area.",0
+R056,"An unsafe condition was reported near the equipment, but the report did not describe the hazard or exposure.",0
+R057,"Isolation was completed, but it was not verified before maintenance began.",0
+R058,"A worker was near lifting equipment during maintenance, but the report does not state whether a suspended load was present.",0
+R059,"The report states that a worker entered the area without further details about the task, hazard, or control measures.",0
+R060,"The report contains conflicting information about whether the work permit was approved before the task started.",0
